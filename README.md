@@ -15,6 +15,6 @@
 
 ### Other infos
 - :computer: Returning to the computer magic world in 2022
-- :newspaper: I like to study how the technology can help people and grow the human life
+- :newspaper: I like to study how the technology can help people
 - :scroll: Currently searching for all kind of knowlege
 - :star: Unnusual things collector
