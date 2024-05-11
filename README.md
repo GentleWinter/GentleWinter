@@ -9,14 +9,14 @@
 
 - :round_pushpin: I'm From Juiz de Fora, MG, Brazil.
 - :triangular_flag_on_post: Self-learning developer
-- ⚡ Graduating in Psychology
+- ⚡ Psychology Bs
 - 🎓 Administration technician
-- 🚀 Main Tecnologies: Node, React, Js
+- 🚀 Main Tecnologies: C#, React, .Net, AWS
 
 ### Other infos
 - :computer: Returning to the computer magic world in 2022
 - :newspaper: I like to study how the technology can help people
 - :scroll: Currently searching for all kind of knowlege
-- :star: Unnusual things collector
+- :star: Polymath enthusiastic
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GentleWinter&hide=tsql&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
