@@ -14,9 +14,5 @@
 - 🚀 Main Tecnologies: C#, React, .Net, AWS
 
 ### Other infos
-- :computer: Returning to the computer magic world in 2022
-- :newspaper: I like to study how the technology can help people
 - :scroll: Currently searching for all kind of knowlege
 - :star: Polymath enthusiastic
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GentleWinter&hide=tsql&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
