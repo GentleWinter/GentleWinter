@@ -16,3 +16,5 @@
 ### Other infos
 - :scroll: Currently searching for all kind of knowlege
 - :star: Polymath enthusiastic
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vixtorocha&hide=tsql&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
