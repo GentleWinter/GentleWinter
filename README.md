@@ -12,6 +12,7 @@
 - ⚡ Psychology Bs
 - 🎓 Administration technician
 - 🚀 Main Tecnologies: C#, React, .Net, AWS
+- Creater and coder on: https://winterforest.io, https://repscale.com.br
 
 ### Other infos
 - :scroll: Currently searching for all kind of knowlege
